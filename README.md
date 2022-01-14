@@ -1,6 +1,6 @@
 ### Hi there 👋
-![Scots GitHub stats](https://github-readme-stats.vercel.app/api?username=Scot-Survivor&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Scot-Survivor&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=Scot-Survivor&show_icons=true&theme=dracula"  alt="Scot's GitHub stats" height="151.4"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scot-Survivor&theme=dracula&layout=compact" alt="Scot's Top languages" width="30%"/>
 <!--
 **Scot-Survivor/Scot-Survivor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

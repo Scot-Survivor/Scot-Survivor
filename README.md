@@ -1,5 +1,5 @@
 # Hello!
-I am Scot_Survivor, a 17-year-old developer. Currently, living in the UK & study at Sixth Form where I am in Year 13. 
+I am Scot_Survivor, a talented & skillful developer. Currently, living in the UK & study at Sixth Form where I am in Year 13. 
 Assuming all goes well, attending university to study my B.Sc. Computer Science Course (specialisation in AI) at 
 <a href="https://www.nottingham.ac.uk/" target="_blank">Nottingham University<a/> come september 2022. 
 

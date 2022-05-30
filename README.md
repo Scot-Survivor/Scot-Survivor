@@ -3,6 +3,9 @@ I am Scot_Survivor, a 17-year-old developer. Currently, living in the UK & study
 Assuming all goes well, attending university to study my B.Sc. Computer Science Course (specialisation in AI) at 
 <a href="https://www.nottingham.ac.uk/" target="_blank">Nottingham University<a/> come september 2022. 
 
+# Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Scot-Survivor)](https://github.com/ryo-ma/github-profile-trophy)
+
 # Passions
 At the moment I do a lot of work on AI specifically Machine Learning. My main project is <a href="https://github.com/Gavin-Development" target="_blank">
 Gavin</a>. Who is a transformer chatbot, his, currently private, API is used by other open source projects such as <a href="https://github.com/Gerald-Development" target="_blank">

@@ -38,6 +38,10 @@ His project for Computer Science A-level (sixth form) is amazing. Check it out o
 contacts in industry & C++ code to speed up my data line. Shmarv has made Gavin a lot easier to develop. 👍👍
 - <a href="https://github.com/TheNitpickyCloud" target="_blank">Ghosty</a> Another Close friend helped a lot with Gavin. He has been there since the start. 
 In initial testing, offered insight & views. Gave testing conditions & helped me with pressing decision on Gavin's infrastructure.👍👍
+- <a href="https://github.com/wilfreddv" target="_blank">Wilfred</a> absolute <b>wiz</b> when it comes to anything C/Assembly. From creating his own language 
+<a href="https://github.com/wilfreddv/qualm" target="_blank"> "qualm"</a> to helping others with their C troubles. A man of many talents & you should definitely check him out.
+- <a href="https://github.com/H4CKY54CK" target="_blank">Hacky</a> optimisation <i>freak</i>, able to make Python run fast & has vast knowledge on Python's optimisation tricks
+also has his own package on PyPi <a href="https://pypi.org/project/hackytools/" target="_blank">HackyTools</a>. Go show him some love!
 
 # Socials
 - Discord ID: Scot_Survivor#2756

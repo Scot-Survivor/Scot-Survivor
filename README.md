@@ -4,13 +4,15 @@ Assuming all goes well, attending university to study my B.Sc. Computer Science 
 <a href="https://www.nottingham.ac.uk/" target="_blank">Nottingham University<a/> come september 2022. 
 
 # Trophies, Awards & Stats
-[![trophy](https://github-profile-trophy.vercel.app/?username=Scot-Survivor)](https://github.com/ryo-ma/github-profile-trophy)
-![](https://komarev.com/ghpvc/?username=your-github-username)
-<div align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Scot-Survivor&show_icons=true&theme=dracula"  alt="Scot's GitHub stats" height="118"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scot-Survivor&theme=dracula&layout=compact" alt="Scot's Top languages" width="30%"/>
-</div>
-
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Scot-Survivor&theme=discord&no-bg=true&no-frame=true&margin-w=15&margin-h=15"  alt="Trophies"/>
+<br>
+<img src="https://komarev.com/ghpvc/?username=Scot-Survivor&color=green&style=for-the-badge"  alt="profile view count"/>
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=Scot-Survivor&show_icons=true&theme=dracula"  alt="Scot's GitHub stats"/>
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scot-Survivor&theme=dracula&layout=compact" alt="Scot's Top languages"/>
+</p>
 # Passions
 At the moment I do a lot of work on AI specifically Machine Learning. My main project is <a href="https://github.com/Gavin-Development" target="_blank">
 Gavin</a>. Who is a transformer chatbot, his, currently private, API is used by other open source projects such as <a href="https://github.com/Gerald-Development" target="_blank">
@@ -37,3 +39,5 @@ In initial testing, offered insight & views. Gave testing conditions & helped me
 # Socials
 - Discord ID: Scot_Survivor#2756
 - Others to come
+
+![](https://hit.yhype.me/github/profile?user_id=40865296)

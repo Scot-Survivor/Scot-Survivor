@@ -5,7 +5,7 @@ Assuming all goes well, attending university to study my B.Sc. Computer Science 
 
 # Trophies, Awards & Stats
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Scot-Survivor&theme=discord&no-bg=true&no-frame=true&margin-w=15&margin-h=15"  alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Scot-Survivor&theme=discord&no-bg=true&no-frame=true&row=2&column=3"  alt="Trophies"/>
 <br>
 <img src="https://komarev.com/ghpvc/?username=Scot-Survivor&color=green&style=for-the-badge"  alt="profile view count"/>
 <br>
@@ -13,14 +13,17 @@ Assuming all goes well, attending university to study my B.Sc. Computer Science 
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scot-Survivor&theme=dracula&layout=compact" alt="Scot's Top languages"/>
 </p>
+
 # Passions
 At the moment I do a lot of work on AI specifically Machine Learning. My main project is <a href="https://github.com/Gavin-Development" target="_blank">
-Gavin</a>. Who is a transformer chatbot, his, currently private, API is used by other open source projects such as <a href="https://github.com/Gerald-Development" target="_blank">
+Gavin</a>. Who is a transformer chatbot, his, currently private, API is used by other open source projects such as 
+<a href="https://github.com/Gerald-Development" target="_blank">
 Gerald</a>. 
 - <a href="https://discord.com/api/oauth2/authorize?client_id=753611486999478322&permissions=378944&scope=bot" target="_blank">Add Gavin to your Discord Server.</a>
 - <a href="https://discord.com/channels/729317146127106059/772921190280724512/931679686885527552" target="_blank">Add Gerald to your Discord Server.</a>
 
-I do however have interests in other areas. Backend Webdev, Webdesign, Frontend Webdev & a little Chat App Backend Development. For my webdesign & web-development, you're best to check 
+I do however have interests in other areas. Backend Webdev, Webdesign, Frontend Webdev & a little Chat App Backend Development. For my webdesign & web-development, 
+you're best to check 
 out my <a href="http://blackjack-example.herokuapp.com/index.html" target="_blank">blackjack webapp</a> hosted on <a href="https://www.heroku.com/" target="_blank">heroku</a>.
 My new & improved chat application projects are currently set to private while I work out some hiccups, however, 
 you can look at <a href="https://github.com/Scot-Survivor/SecureChatApp" target="_blank">this</a> based on

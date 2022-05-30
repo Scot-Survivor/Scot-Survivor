@@ -3,6 +3,14 @@ I am Scot_Survivor, a talented & skillful developer. Currently, living in the UK
 Assuming all goes well, attending university to study my B.Sc. Computer Science Course (specialisation in AI) at 
 <a href="https://www.nottingham.ac.uk/" target="_blank">Nottingham University<a/> come september 2022. 
 
+# Trophies, Awards & Stats
+[![trophy](https://github-profile-trophy.vercel.app/?username=Scot-Survivor)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://komarev.com/ghpvc/?username=your-github-username)
+<div align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=Scot-Survivor&show_icons=true&theme=dracula"  alt="Scot's GitHub stats" height="118"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scot-Survivor&theme=dracula&layout=compact" alt="Scot's Top languages" width="30%"/>
+</div>
+
 # Passions
 At the moment I do a lot of work on AI specifically Machine Learning. My main project is <a href="https://github.com/Gavin-Development" target="_blank">
 Gavin</a>. Who is a transformer chatbot, his, currently private, API is used by other open source projects such as <a href="https://github.com/Gerald-Development" target="_blank">
@@ -29,7 +37,3 @@ In initial testing, offered insight & views. Gave testing conditions & helped me
 # Socials
 - Discord ID: Scot_Survivor#2756
 - Others to come
-<div align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Scot-Survivor&show_icons=true&theme=dracula"  alt="Scot's GitHub stats" height="118"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scot-Survivor&theme=dracula&layout=compact" alt="Scot's Top languages" width="30%"/>
-</div>

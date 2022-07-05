@@ -47,4 +47,7 @@ also has his own package on PyPi <a href="https://pypi.org/project/hackytools/" 
 - Discord ID: Scot_Survivor#2756
 - Others to come
 
+# Donations
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F4DL4ST)
+
 ![](https://hit.yhype.me/github/profile?user_id=40865296)

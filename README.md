@@ -1,7 +1,6 @@
 # Hello!
-I am Scot_Survivor, a talented & skillful developer. Currently, living in the UK & study at Sixth Form where I am in Year 13. 
-I will be attending university to study my Bachelors come September 2022. Computer Science Course (specialisation in AI) at 
-<a href="https://www.nottingham.ac.uk/" target="_blank">Nottingham University<a/> come september 2022. 
+I am Scot_Survivor, a talented & skillful developer. Currently, living in the UK & studying Computer Science Course (specialisation in AI) at 
+<a href="https://www.kent.ac.uk/" target="_blank">Kent University<a/> since September 2022.
 
 # Trophies, Awards & Stats
 <p align="center">
